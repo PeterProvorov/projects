@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Спаси лягушку</string>
+    <string name="action_settings">Настройки</string>
+    <string name="str_add">Добавить</string>
+    <string name="str_depth">Кафедра Прикладной Математики</string>
+    <string name="str_draw_symbol">Нарисуйте символ</string>
+    <string name="str_estcorpred">Оценка правильных предсказаний</string>
+    <string name="str_learn">Обучить</string>
+    <string name="str_select_symbol_menu">Выберите символ в меню</string>
+    <string name="str_wrong_symbol">Неузнаваемый символ</string>
+    <string name="str_university2">университет Петра Великого</string>
+    <string name="str_university1">Санкт-Петербургский Политехнический</string>
+    <string name="str_toweb">На сайт</string>
+    <string name="str_test">Тест</string>
+    <string name="str_start">Старт</string>
+    <string name="str_time">Время: $1$d</string>
+    <string name="str_score">Очки: %1$d/%2$d</string>
+    <string name="str_play">Играть</string>
+    <string name="str_level">Уровень %1$d</string>
+    <string name="str_levels">Выбери уровень</string>
+    <string name="str_lose">Ты проиграл!</string>
+    <string name="str_win">Ты выиграл!</string>
+    <string name="str_tip_1">Нажми на эту кувшинку, чтобы прыгнуть!</string>
+    <string name="str_tip_2">Осторожно, кувшинка меняет размер!</string>
+    <string name="str_tip_3">Теперь попробуй собрать бонус!</string>
+    <string name="str_tip_4">Удачи!</string>
+</resources>

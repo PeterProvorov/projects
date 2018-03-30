@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/tmp3stage.dir/calculate.c.o CMakeFiles/tmp3stage.dir/checkString.c.o CMakeFiles/tmp3stage.dir/error.c.o CMakeFiles/tmp3stage.dir/getString.c.o CMakeFiles/tmp3stage.dir/main.c.o  -o tmp3stage 

@@ -1,0 +1,3 @@
+/Users/peto/Downloads/tmp3stage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/peto/Downloads/tmp3stage/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/peto/Downloads/tmp3stage/cmake-build-debug/CMakeFiles/tmp3stage.dir
